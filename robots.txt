@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://buzetoco.github.io/sitemap/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/Ijg/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/hsW/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/lWy/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/Rhs/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/CiM/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/GiA/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/SxP/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/Qyi/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/iKL/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/RGJ/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/KVo/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/cgO/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/IVR/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/tTG/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/JAZ/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/oyE/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/Mks/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/obt/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/gsQ/sitemap_index.buzetoco
+Sitemap: https://buzetoco.github.io/GAq/sitemap_index.buzetoco
